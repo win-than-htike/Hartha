@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/.android/build-cache/5a46fe9bc80e687c7afa37daae5407072e81c826/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_c39d8e92dfcf00b03c52f745fc662b971eb60451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/.android/build-cache/5aca936d88e11e1f6edd1afb3740bd9e1532c66b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_631ea0aef0efb5f9346f9c4445f01e022df97b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/.android/build-cache/807f0dd5d70c6e0d51fe7ab35e76734b92d2c49b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_0db9e8c55360fdf214ab2634bdaf93674211ebe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/.android/build-cache/9c633997b49ceee2a1d8595f8f527cc346211ee9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_9954b0010db48f00542b06191917a96728cdbaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/.android/build-cache/0513e0a561db19c87dbcece69d6262d5fc1ed150/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_d60dd8082c4e9c8e272557feec35db6d2cb110a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/AndroidStudioProjects/Hartha/share/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5591d2ad314f6877736425ae1a0764ff9aca423c">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_eaa79c597fdab50be118120b3eaeaec2d392c336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/.android/build-cache/e7abe5745c1abb2d153e03b22672d87cf97d9ba2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_315178696bef916a90dd6432367a305930c193db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/.android/build-cache/30e4714d2d5ed80e0596777104d2ce23420f9354/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_29f6ea4f2c8801c9392b888e2a73423a3791d3bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/winthanhtike/.android/build-cache/1e6337048ffb171727fc07328c6dec9e03c9e76b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/winthanhtike/AndroidStudioProjects/Hartha/app/build/intermediates/pre-dexed/debug/classes_a85a1aecf814e048147b04c278e18301fad93ff4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xyz.aungpyaephyo.renty.shared.views.items.SpinnerViewItem xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <xyz.aungpyaephyo.renty.shared.components.mmfont.views.MMTextView
+        android:id="@+id/tv_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:fontFamily="sans-serif-light"
+        android:lineSpacingMultiplier="1.2"
+        android:padding="@dimen/margin_medium"
+        android:textColor="@android:color/black" />
+
+</xyz.aungpyaephyo.renty.shared.views.items.SpinnerViewItem>

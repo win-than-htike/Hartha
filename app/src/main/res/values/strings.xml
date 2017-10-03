@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ဟာသ</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_joke">အကြောင်းရင်း</string>
+    <string name="joke_date">Dec 16 2017</string>
+    <string name="category_name">Alcohol</string>
+    <string name="dummy_joke">“ဆရာ – ကျွန်မယောက်ျား ရူးနေပြီလို့ ထင်ပါတယ်။ နည်းနည်းစစ်ဆေးပေးပါဦး။” “သူက ဘာတွေထူးထူးခြားခြားလုပ်နေလို့ လဲ။” “အရက်သွားသောက်တိုင်း အိမ်တံခါးမကြီးက တံခါးရွက်ကို ဖြုတ်ဖြုတ်ယူသွားတယ် ဆရာ။” ဒီတော့ ဆရာဝန်က ခပ်ငေါင်ငေါင်နဲ့ ရပ်နေတဲ့ ယောက်ျားဖြစ်သူဘက်ကိုလှည့်ပြီး - “ကဲ – ခင်ဗျားမိန်းမပြောတာ ဟုတ်သလား။” “ဟုတ်ပါတယ်။” “ဘာလို့ အဲ့ဒီလို လုပ်ရတာလဲ။” “သူက မူးပြီးပြန်လာရင် တံခါးဖွင့်မပေးဘူး ပြောလို့ပါ။”</string>
+    <string name="action_fav">Favourite</string>
+    <string name="action_share">Share</string>
+</resources>

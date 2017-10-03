@@ -1,0 +1,77 @@
+ext {
+    minSdkVersion = 18 //Android 4.3
+    compileSdkVersion = 25
+    buildToolVersion = "25.0.3"
+
+    //Android
+    androidSupportVersion = "25.3.1"
+    firebaseVersion = "10.2.1"
+    constraintlayoutVersion = "1.0.2"
+    butterknifeVersion = "8.4.0"
+    rxandroidVersion = "1.2.1"
+    rxbindingVersion = "1.0.0"
+    okhttpVersion = "3.4.1"
+    retrofitVersion = "2.1.0"
+    glideVersion = "3.7.0"
+    daggerVersion = "2.8"
+    eventBusVersion = "3.0.0-beta1"
+    archiVersion="1.0.0-alpha9-1"
+
+    //Java
+    rxjavaVersion = "1.2.3"
+
+    //Testing
+    junitVersion = "4.12"
+    dexmakerVersion = "1.2"
+    mockitoVersion = "1.10.19"
+    supportTestVersion = "0.5"
+    robolectricVersion = "3.1.1"
+    espressoVersion = "2.2.2"
+
+    libraries = [
+            androidSupport   : "com.android.support:support-v4:${androidSupportVersion}",
+            appCompat        : "com.android.support:appcompat-v7:${androidSupportVersion}",
+            recyclerview     : "com.android.support:recyclerview-v7:${androidSupportVersion}",
+            cardview         : "com.android.support:cardview-v7:${androidSupportVersion}",
+            designSupport    : "com.android.support:design:${androidSupportVersion}",
+            vectorSupport    : "com.android.support:support-vector-drawable:${androidSupportVersion}",
+            constraintLayout : "com.android.support.constraint:constraint-layout:${constraintlayoutVersion}",
+            rxjava           : "io.reactivex:rxjava:${rxjavaVersion}",
+            rxandroid        : "io.reactivex:rxandroid:${rxandroidVersion}",
+            butterknife      : "com.jakewharton:butterknife:${butterknifeVersion}",
+            okhttp           : "com.squareup.okhttp3:okhttp:${okhttpVersion}",
+            okhttpLogging    : "com.squareup.okhttp3:logging-interceptor:${okhttpVersion}",
+            retrofit         : "com.squareup.retrofit2:retrofit:${retrofitVersion}",
+            retrofitConverter: "com.squareup.retrofit2:converter-gson:${retrofitVersion}",
+            retrofitAdapter  : "com.squareup.retrofit2:adapter-rxjava:${retrofitVersion}",
+            glide            : "com.github.bumptech.glide:glide:${glideVersion}",
+            eventBus         : "de.greenrobot:eventbus:${eventBusVersion}",
+            dagger           : "com.google.dagger:dagger:${daggerVersion}",
+            rxbinding        : "com.jakewharton.rxbinding:rxbinding:${rxbindingVersion}",
+            firebaseCore     : "com.google.firebase:firebase-core:${firebaseVersion}",
+            firebaseCrash    : "com.google.firebase:firebase-crash:${firebaseVersion}",
+            architecture     : "android.arch.lifecycle:extensions:${archiVersion}"
+    ]
+
+    aptLibraries = [
+            butterknifeCompiler: "com.jakewharton:butterknife-compiler:${butterknifeVersion}",
+            daggerCompiler     : "com.google.dagger:dagger-compiler:${daggerVersion}"
+    ]
+
+    testLibraries = [
+            junit             : "junit:junit:${junitVersion}",
+            mockito           : "org.mockito:mockito.core:${mockitoVersion}",
+            robolectric       : "org.robolectric:robolectric:${robolectricVersion}",
+            dexmaker          : "com.google.dexmaker:dexmaker:${dexmakerVersion}",
+            dexmakerMockito   : "com.google.dexmaker:dexmaker-mockito:${dexmakerVersion}",
+            supportAnnotations: "com.android.support:support-annotations:${androidSupportVersion}",
+            supportTestRunner : "com.android.support.test:runner:${supportTestVersion}",
+            supportTestRules  : "com.android.support.test:rules:${supportTestVersion}",
+            espresso          : "com.android.support.test.espresso:espresso.core:${espressoVersion}",
+            espressoContrib   : "com.android.support.test.espresso:espresso-contrib:${espressoVersion}"
+    ]
+
+    annotationProcessors =[
+           architecture     : "android.arch.lifecycle:compiler:${archiVersion}"
+    ]
+}

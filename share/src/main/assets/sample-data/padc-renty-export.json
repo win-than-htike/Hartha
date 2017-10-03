@@ -1,0 +1,2494 @@
+[
+  {
+    "address": "လမ်းမတော်",
+    "apartmentFloor": 3,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 1,
+        "roomLength": 15,
+        "roomType": "Double Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "1 year",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": false,
+      "hasWashingMachine": false,
+      "hasWaterHeater": false,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 0
+    },
+    "imageUrl": [
+      "https: //cdn.shweproperty.com/assets/images/property/6e75c39ccf03a6bf4c5326747cac27af.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/ab470e5319f6e9c6116c0c12887c2090.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.327492,
+    "length": 60,
+    "longitude": 16.6346653,
+    "maxRate": 10,
+    "minRate": 4,
+    "placeDescription": "ရုံးခန်း showroom ဖွင့်ကောင်းသော တစ်ခန်းလုံး ကြွေပြားခင်းကပ်ပြီး အဆင့်မြင့်ပြင်ဆင်ထားသော မြေညီထပ်တိုက်ခန်း",
+    "placeId": 21,
+    "placeTitle": "လမ်းမတော်မြို့နယ် ၁၆လမ်းရှိ ရုံးခန်း Shaw Room ဖွင့်ကောင်းသော တစ်ခန်လုံးကြွေပြားခင်းကပ်ပြီး အဆင့်မြင့်ပြင်ဆင်ထားသော မြေညီထပ်တိုက်ခန်း ငှားမည်",
+    "placeType": "တိုက်ခန်:",
+    "price": 6.0,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "လမ်းမတော်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+      "email": "mya@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "09976969999",
+      "userId": 11,
+      "userName": "ဒေါ်မြ",
+      "userType": "place_poster"
+    },
+    "viewerCount": 5,
+    "width": 40
+  },
+  {
+    "address": "နန္ဒာဝန်ဈေးနီး",
+    "apartmentFloor": 1,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 2,
+        "roomLength": 20,
+        "roomType": "Master Room",
+        "roomWidth": 12
+      },
+      {
+        "hasAircon": false,
+        "id": 3,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 9
+      }
+    ],
+    "contractDuration": "1 year",
+    "contractNegotiable": false,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": true,
+      "hasRefrigerator": false,
+      "hasWashingMachine": true,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://cdn.shweproperty.com/assets/images/property/aac4059eb88de11e1cb82d2baf45bf47.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/7ccf85257642edb3e2ca3f8bf6532063.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/9053dd94a088abb476086829f1a65e1c.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/52401c77c4e7a674035562313c93afaf.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/ac57ced344dd4fe94b6601cf3933516b.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "aung@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969998",
+        "userId ": 21,
+        "userName": "Aung Aung",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1655186,
+    "length": 60,
+    "longitude": 16.8491092,
+    "maxRate": 10,
+    "minRate": 7,
+    "placeDescription": "တောင်ဥက္ကလာပမြို့နယ် နန္ဒာဝန်ဈေးနီးရှိ သံပန်းဆန်းရှိက်တပ်ပြီးသော ပထမထပ်တိုက်ခန်း",
+    "placeId": 22,
+    "placeTitle": "တာင်ဥက္ကလာပမြို့နယ် နန္ဒာဝန်ဈေးနီးရှိ သံပန်းဆန်းရှိုတ်တပ်ပြီးသော ပထမထပ်တိုက်ခန်းငှားမည်",
+    "placeType": "တိုက်ခန်း",
+    "price": 3.5,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "aung@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969998",
+        "userId": 21,
+        "userName": "Aung Aung",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "တာင်ဥက္ကလာပမြို့နယ်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "တောင်ဥက္ကလာပမြို့နယ်",
+      "email": "kyaw@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+95444344966",
+      "userId": 12,
+      "userName": "U Kyaw",
+      "userType": "place_poster"
+    },
+    "viewerCount": 38,
+    "width": 40
+  },
+  {
+    "address": "လမ်း(၅၀)",
+    "apartmentFloor": 2,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 4,
+        "roomLength": 10,
+        "roomType": "Master Room",
+        "roomWidth": 15
+      },
+      {
+        "hasAircon": true,
+        "id": 5,
+        "roomLength": 12,
+        "roomType": "Double Room",
+        "roomWidth": 10
+      },
+      {
+        "hasAircon": true,
+        "id": 6,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "1 year",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": true,
+      "hasRefrigerator": false,
+      "hasWashingMachine": true,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://cdn.shweproperty.com/assets/images/property/45d38f6793a6bf779bfcc6380deceadf.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/6b3afc132c36799a15e6775d01d8c433.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/60a1c1bcf29d391986900a27a7972cc9.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/60dce47d69365ab51f5065497c1ae10c.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyophyo@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796477698",
+        "userId": 210,
+        "userName": "Phyo Phyo",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1681741,
+    "length": 60,
+    "longitude": 16.7778198,
+    "maxRate": 0,
+    "minRate": 0,
+    "placeDescription": "A-2078, လမ်း(၅၀)ကွန်ဒိုတွင် အခန်းငှားရန်",
+    "placeId": 23,
+    "placeTitle": "ကွန်ဒို - A-2078, လမ်း(50)ကွန်ဒိုတွင် အခန်းငှားရန်ရှိပါသည်။",
+    "placeType": "ကွန်ဒို",
+    "price": 12.0,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyophyo@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796477698",
+        "userId": 210,
+        "userName": "Phyo Phyo",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 0,
+    "township": "ပုစွန်တောင်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "",
+      "email": "hlashwe@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "09969584999",
+      "userId": 13,
+      "userName": "ဦးမြ",
+      "userType": "place_poster"
+    },
+    "viewerCount": 3,
+    "width": 40
+  },
+  {
+    "address": "လသာလမ်း",
+    "apartmentFloor": 5,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 7,
+        "roomLength": 20,
+        "roomType": "Master Room",
+        "roomWidth": 20
+      },
+      {
+        "hasAircon": true,
+        "id": 8,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 12
+      }
+    ],
+    "contractDuration": "1 year",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": true,
+      "hasRefrigerator": false,
+      "hasWashingMachine": false,
+      "hasWaterHeater": false,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://cdn.shweproperty.com/assets/images/property/IMG_1597_1400x1050.JPG",
+      "https://cdn.shweproperty.com/assets/images/property/IMG_1598_1400x1050.JPG",
+      "https://cdn.shweproperty.com/assets/images/property/IMG_1599_1400x1050.JPG",
+      "https://cdn.shweproperty.com/assets/images/property/IMG_1600_1400x1050.JPG"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId ": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1459977,
+    "length": 25,
+    "longitude": 16.7767259,
+    "maxRate": 10,
+    "minRate": 8,
+    "placeDescription": "ရန်ကုန်မြို့တွင်းသို့ အလွယ်တကူသွားလာနိုင်ပြီး နေရာကောင်းဖြစ်ပြီး နေထိုင်ရန်သင့်",
+    "placeId": 24,
+    "placeTitle": "ရန်ကုန်မြို့တွင်းသို့ အလွယ်တကူသွားလာနိုင်ပြီး နေရာကောင်းဖြစ်ပြီး နေထိုင်ရန်သင့်",
+    "placeType": "ကွန်ဒို",
+    "price": 3.0,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId ": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "လသာမြို့နယ်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "လသာမြို့နယ်",
+      "email": "maung@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959256738914",
+      "userId": 14,
+      "userName": "ကိုမောင်္",
+      "userType": "place_poster"
+    },
+    "viewerCount": 3,
+    "width": 60
+  },
+  {
+    "address": "ဂျပန်လမ်း",
+    "apartmentFloor": 3,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 9,
+        "roomLength": 20,
+        "roomType": "Master Room",
+        "roomWidth": 20
+      },
+      {
+        "hasAircon": true,
+        "id": 10,
+        "roomLength": 12,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      },
+      {
+        "hasAircon": true,
+        "id": 11,
+        "roomLength": 12,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      },
+      {
+        "hasAircon": true,
+        "id": 12,
+        "roomLength": 20,
+        "roomType": "Master Room",
+        "roomWidth": 20
+      },
+      {
+        "hasAircon": true,
+        "id": 13,
+        "roomLength": 12,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      },
+      {
+        "hasAircon": true,
+        "id": 14,
+        "roomLength": 12,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "1 year",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": true,
+      "hasRefrigerator": false,
+      "hasWashingMachine": true,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://cdn.shweproperty.com/assets/images/property/0c27d55242391be3cb53cca1005a7a2e.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/7ad8031a694f173fe314c3f2592e307f.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/f8526bdd05c15f87a41d61537bdd57d5.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/6195540f977401ed5386303b4d8ccada.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/268b87de16affedd36a5e589b6a293c1.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/c4d020ce18498756543c981c7061318b.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.0694841,
+    "length": 35,
+    "longitude": 16.9022753,
+    "maxRate": 10,
+    "minRate": 7,
+    "placeDescription": "ကိုယ်ပိုင်ခြံဝန်းနှင့်နေထိုင်လိုသူများအတွက်အင်းစိန်မြို့နယ် ဂျပန်လမ်း မြို့တော်ဂေါက်ကွင်းအိမ်ရာရှိ ကျွန်းပါကေးခင်းထားသည့် အဆင်မြင့်ပြင်ဆင်ထားသော လုံးချင်းအိမ်",
+    "placeId": 25,
+    "placeTitle": "ကိုယ်ပိုင်ခြံဝန်းနှင့်နေထိုင်လိုသူများအတွက် အင်းစိန်မြို့နယ် ဂျပန်လမ်း မြို့တော်ဂေါက်ကွင်းအိမ်ရာရှိ ကျွန်းပါကေးခင်းထားသည့် အဆင့်မြင့်ပြင်ဆင်ထားသော လုံးချင်းနှစ်ထပ်ခွဲအိမ်ငှားရန်ရှိသည်",
+    "placeType": "လုံးချင်းအိမ်",
+    "price": 1.7,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 2,
+    "township": "အင်းစိန်္",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "လှိုင်",
+      "email": "phyu@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959792417689",
+      "userId": 15,
+      "userName": "phyu ei mon",
+      "userType": "place_poster"
+    },
+    "viewerCount": 69,
+    "width": 55
+  },
+  {
+    "address": "စမ်းချောင်း",
+    "apartmentFloor": 1,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 15,
+        "roomLength": 25,
+        "roomType": "Double Room",
+        "roomWidth": 12
+      },
+      {
+        "hasAircon": false,
+        "id": 16,
+        "roomLength": 12,
+        "roomType": "Single Room",
+        "roomWidth": 12
+      }
+    ],
+    "contractDuration": "1 year",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": true,
+      "hasRefrigerator": false,
+      "hasWashingMachine": true,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://cdn.shweproperty.com/assets/images/property/901b56e349c44c7f398ede77a3a10fe7.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/5ab72aaf465e8d2dae89a08be404e70b.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/d7d08bb223fc697dd056ff24a69d6f97.jpg",
+      "https://cdn.shweproperty.com/assets/images/property/dc22c330f64f10e60902552a7d71afc4.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1253983,
+    "length": 36,
+    "longitude": 16.8062456,
+    "maxRate": 10,
+    "minRate": 4,
+    "placeDescription": "စမ်းချောင်းမြို့နယ်တွင် (၁၄*၁၆) ကျယ်ပြီး 1BR,2AC,Furniture အစုံပါဝင်သော ပထမထပ်တိုက်ခန်းအမြန်ငှားမည်",
+    "placeId": 26,
+    "placeTitle": "စမ်းချောင်းမြို့နယ်တွင် (၁၄*၁၆) ကျယ်ပြီး 1BR,2AC,Furniture အစုံပါဝင်သော ပထမထပ်တိုက်ခန်းအမြန်ငှားမည်",
+    "placeType": "တိုက်ခန်း",
+    "price": 4.0,
+    "priceNegotiable": false,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 0,
+    "township": "စမ်းချောင်း",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "ေျမနီကုန္း",
+      "email": "minnthu@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959973456810",
+      "userId": 16,
+      "userName": "မင္းသူ",
+      "userType": "place_poster"
+    },
+    "viewerCount": 220,
+    "width": 24
+  },
+  {
+    "address": "ပန်းဆိုးတန်းတာဝါ",
+    "apartmentFloor": 3,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 17,
+        "roomLength": 15,
+        "roomType": "Master Room",
+        "roomWidth": 15
+      },
+      {
+        "hasAircon": true,
+        "id": 18,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 15
+      }
+    ],
+    "contractDuration": "1 year",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": true,
+      "hasRefrigerator": false,
+      "hasWashingMachine": false,
+      "hasWaterHeater": true,
+      "isFullyFurnished": false,
+      "numOfLivingRoomAC": 2
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/13066511-1505448694.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/13066511-1505448707.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/13066511-1505448717.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/13066511-1505448733.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/13066511-1505448672.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyophyo@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796477698",
+        "userId": 210,
+        "userName": "Phyo Phyo",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1574966,
+    "length": 40,
+    "longitude": 16.7766766,
+    "maxRate": 10,
+    "minRate": 7,
+    "placeDescription": "- ပန်းဆိုးတန်းတာဝါ၊ အလွှာမြင့်\n - 2100 Sqft,  \n - အိပ်ခန်း(၃)ခန်း၊ အဲကွန်း(၃)လုံး၊ Office Type ",
+    "placeId": 27,
+    "placeTitle": "ပန်းဆိုးတန်းတာဝါတွင် အခန်းငှားရန်ရှိပါသည်။",
+    "placeType": "ကွန်ဒို",
+    "price": 10.0,
+    "priceNegotiable": false,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 4,
+    "township": "ကျောက်တံတား",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "ကျောက်တံတား",
+      "email": "ainkyin@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+9599382728",
+      "userId": 17,
+      "userName": "အင်ကြင်း",
+      "userType": "place_poster"
+    },
+    "viewerCount": 54,
+    "width": 40
+  },
+  {
+    "address": "ဗိုလ်တထောင်",
+    "apartmentFloor": 2,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 19,
+        "roomLength": 12,
+        "roomType": "Double Room",
+        "roomWidth": 10
+      },
+      {
+        "hasAircon": true,
+        "id": 20,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "1 year",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": true,
+      "hasRefrigerator": false,
+      "hasWashingMachine": true,
+      "hasWaterHeater": false,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12750198-1500110533.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12750198-1500110801.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12750198-1500110866.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1718594,
+    "length": 28,
+    "longitude": 16.7733461,
+    "maxRate": 10,
+    "minRate": 8,
+    "placeDescription": "တိတ်တိတ်ဆိတ်ဆိတ် နားအေးပါးအေး နေချင်သူများအတွက် ၅၂လမ်း အခန်းကျယ် 25 x 50, 4th Floor, 3BR, တစ်ခန်းလုံး ကြွေပြားခင်း၊ မီးဖိုချောင်ကြွေပြားခင်းအလွန်သန့်ရှင်း၊ A/C 3 လုံးပါ၊ လေဝင်လေထွက်ကောင်း၊ ကျနေ တက်နေလွတ်၊ အသင့်နေထိုင်နိုင်။ ပိုင်ရှင်ကိုယ်တိုင်အမြန်ငှါးမည်။ ",
+    "placeId": 28,
+    "placeTitle": "၅၂ လမ်း အခန်းကျယ် (၂၅ x ၅၀ပေ) ဌားမည်",
+    "placeType": "တိုက်ခန်း",
+    "price": 3.0,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 3,
+    "township": "ဗိုလ်တထောင်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "ဗိုလ်တထောင်",
+      "email": "yanaung@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959976159196",
+      "userId": 18,
+      "userName": "ရန်အောင်မင်း",
+      "userType": "place_poster"
+    },
+    "viewerCount": 835,
+    "width": 45
+  },
+  {
+    "address": "စမ်းချောင်း",
+    "apartmentFloor": 5,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 21,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": true,
+      "hasRefrigerator": false,
+      "hasWashingMachine": true,
+      "hasWaterHeater": false,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720941-1499573761.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720941-1499573793.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720941-1499573827.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720941-1499573848.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720941-1499573740.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1253983,
+    "length": 23,
+    "longitude": 16.8062456,
+    "maxRate": 10,
+    "minRate": 6,
+    "placeDescription": "အက်ယ္အ၀န္း 13x55 ေပရွိသည့္ သံုးလႊာ ေဟာင္ေကာင္ ၂ လႊာတိုက္ျဖစ္သည္။ေနထိုင္ရန္ေကာင္းသည့္ ေစ်းႏႈန္းတန္တိုက္ခန္း အငွားျဖစ္သည္။",
+    "placeId": 29,
+    "placeTitle": "စမ်းချောင်းမြို့နယ် သပြေညိုလမ်းတွင် ဈေးနှုနး်တန်တိုက်ခန်းငှားမည်။",
+    "placeType": "တိုက်ခန်း",
+    "price": 2.5,
+    "priceNegotiable": false,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 3,
+    "township": "စမ်းချောင်း",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "စမ်းချောင်း",
+      "email": "khinwarthi@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959792627204",
+      "userId": 19,
+      "userName": "ခင်ဝါသီ",
+      "userType": "place_poster"
+    },
+    "viewerCount": 835,
+    "width": 55
+  },
+  {
+    "address": "စမ်းချော",
+    "apartmentFloor": 4,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": false,
+        "id": 22,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": false,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 0
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/13049455-1505125883453.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyophyo@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796477698",
+        "userId": 210,
+        "userName": "Phyo Phyo",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1253983,
+    "length": 13,
+    "longitude": 16.8062456,
+    "maxRate": 10,
+    "minRate": 6,
+    "placeDescription": "စမ္​း​ေခ်ာင္​းလမ္​းသန္​႔ျပည္​လမ္​းမဟာျမိဳင္​ မွတ္​တိုင္​အနီးကြၽန္​း​ေတာလမ္​းအနီး ပါ​ေကးခင္​း မီးဖို​ေႂကြျပားခင္​း ​ေႂကြျပားကပ္​္​ျပင္​ဆင္​ၿပီး တိုက္​သစ္​ ္း အငွားျဖစ္သည္။ ",
+    "placeId": 30,
+    "placeTitle": "စမ်​း​ချောင်​းမြို့နယ်​တွင်​ ၁၃×၅၀ ​ပေရှိ ​မြေညီ+တပ်​ခိုး ဌားရန်​ရှိသည်​ ပြင်​ဆင်​ပြီး တိုက်​သစ်​",
+    "placeType": "တိုက်ခန်း",
+    "price": 3.5,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 2,
+    "township": "စမ်းချောင်း",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "စမ်းချောင်း",
+      "email": "thannu@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959251037468",
+      "userId": 110,
+      "userName": "ဒေါ်သန်းနု",
+      "userType": "place_poster"
+    },
+    "viewerCount": 255,
+    "width": 50
+  },
+  {
+    "address": "စမ်းချောင်း",
+    "apartmentFloor": 1,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": false,
+        "id": 23,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 15
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": true,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 0
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720823-1499573424.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720823-1499573330.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720823-1499573384.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyophyo@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796477698",
+        "userId": 210,
+        "userName": "Phyo Phyo",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1253983,
+    "length": 15,
+    "longitude": 16.8062456,
+    "maxRate": 10,
+    "minRate": 5,
+    "placeDescription": "အကျယ်အဝန်း 15x55 ပေကျယ်ဝန်းသော ပရိဘောဂအစုံပါသည့် အဆင့်မြင့်ပြင်ဆင်ပြီး ပထမထပ်တိုက်ခန်းဖြစ်သည်။",
+    "placeId": 31,
+    "placeTitle": "စမ်းချောင်းမြို့နယ် ကျွန်းတောလမ်းမပေါ်တွင် ပရိဘောဂအစုံပါသော အသင့်တိုက်ခန်းကျယ်​",
+    "placeType": "တိုက်ခန်း",
+    "price": 5.5,
+    "priceNegotiable": false,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyophyo@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796477698",
+        "userId": 210,
+        "userName": "Phyo Phyo",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "စမ်းချောင်း",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "လှိုင်",
+      "email": "waiphyoaung@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959251037469",
+      "userId": 111,
+      "userName": "ဝေဖြိုးအောင်",
+      "userType": "place_poster"
+    },
+    "viewerCount": 265,
+    "width": 55
+  },
+  {
+    "address": "ရှင်စောပုဘုရားလမ်း",
+    "apartmentFloor": 0,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": false,
+        "id": 24,
+        "roomLength": 12,
+        "roomType": "Single Room",
+        "roomWidth": 12
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": false,
+      "hasWashingMachine": false,
+      "hasWaterHeater": false,
+      "isFullyFurnished": false,
+      "numOfLivingRoomAC": 0
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12514728-1498192473.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12514728-1496285369.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1253983,
+    "length": 17,
+    "longitude": 16.8062456,
+    "maxRate": 10,
+    "minRate": 7,
+    "placeDescription": "စမ်းချောင်းမြို့နယ်တွင်(17 x 68) Hall, ထပ်ခိုး၊ လုပ်ငန်းလုပ်ရန်ကောင်းသော မြေညီတိုက်ခန်းငှားရန်ရှိပါသည် ",
+    "placeId": 32,
+    "placeTitle": "မြေညီတိုက်ခန်းငှားရန်ရှိသည် ရှင်စောပုဘုရားလမ်း​",
+    "placeType": "တိုက်ခန်း",
+    "price": 1.2,
+    "priceNegotiable": false,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 2,
+    "township": "စမ်းချောင်း",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "လှိုင်",
+      "email": "shweyihtun@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959251037449",
+      "userId": 12,
+      "userName": "ရွှေရီထွန်း",
+      "userType": "place_poster"
+    },
+    "viewerCount": 20,
+    "width": 68
+  },
+  {
+    "address": "ဗိုလ်တထောင်",
+    "apartmentFloor": 1,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 25,
+        "roomLength": 15,
+        "roomType": "Master Room",
+        "roomWidth": 20
+      },
+      {
+        "hasAircon": true,
+        "id": 26,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": true,
+      "hasWaterHeater": false,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12712747-1499329921.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12712747-1499329939.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12712747-1499329970.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12712747-1499329996.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1718594,
+    "length": 36,
+    "longitude": 16.7733461,
+    "maxRate": 10,
+    "minRate": 7,
+    "placeDescription": "ိနေရာကောင်းဖြစ်",
+    "placeId": 33,
+    "placeTitle": "ဗိုလ်တထောင်မြို့နယ် သိမ်ဖြူလမ်းမပေါ်တွင် တိုက်ခန်းငှားရန် ရှိသည်။​",
+    "placeType": "တိုက်ခန်း",
+    "price": 1.5,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 2,
+    "township": "ဗိုလ်တထောင်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "ရဲရင့်အောင်",
+      "email": "yekyawtun@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959251887449",
+      "userId": 13,
+      "userName": "ရဲကျော်ထွန်း",
+      "userType": "place_poster"
+    },
+    "viewerCount": 30,
+    "width": 50
+  },
+  {
+    "address": "လမ်းမတော်",
+    "apartmentFloor": 3,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 27,
+        "roomLength": 15,
+        "roomType": "Master Room",
+        "roomWidth": 20
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": true,
+      "hasWaterHeater": false,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12708815-1499316482.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12708815-1499316504.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12708815-1499316559.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12708815-1499316588.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1322406,
+    "length": 50,
+    "longitude": 16.779512,
+    "maxRate": 10,
+    "minRate": 8,
+    "placeDescription": "လမ်းမတော်မြို့နယ်၊(16)လမ်းတွင်တိုက်ခန်းငှားရန်ရှိသည်။(12.5×50) sqft ရှိသည်။1S၊2AC ပါသည်။ ",
+    "placeId": 34,
+    "placeTitle": "လမ်းမတော်မြို့နယ်၊(16)လမ်းတွင်တိုက်ခန်းငှားရန်ရှိသည်",
+    "placeType": "တိုက်ခန်း",
+    "price": 6.0,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "လမ်းမတော်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "ရဲရင့်အောင်",
+      "email": "myatthuwin@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959252287449",
+      "userId": 14,
+      "userName": "မြတ်သူဝင်း",
+      "userType": "place_poster"
+    },
+    "viewerCount": 50,
+    "width": 12.5
+  },
+  {
+    "address": "ဗဟန်း",
+    "apartmentFloor": 3,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 28,
+        "roomLength": 13,
+        "roomType": "Double Room",
+        "roomWidth": 16
+      },
+      {
+        "hasAircon": false,
+        "id": 29,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": false,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 0
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12574258-1497348157.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "aung@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969998",
+        "userId": 21,
+        "userName": "Aung Aung",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1397882,
+    "length": 60,
+    "longitude": 16.8112384,
+    "maxRate": 10,
+    "minRate": 9,
+    "placeDescription": "ဗဟန်း၊ရွှေဂုံတိုင်လမ်းမကြီး၊ 15'x60', 1MBR, 2BR, 6Fl, အသင့်နေထိုင်နိုင်ပါသည်။ ",
+    "placeId": 35,
+    "placeTitle": "ဗဟန်းမြို့နယ်အတွင်း တိုက်ခန်းငှါးရန်ရှိသည်။",
+    "placeType": "တိုက်ခန်း",
+    "price": 4.0,
+    "priceNegotiable": false,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "ဗဟန်း",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "ဗဟန်း",
+      "email": "heinminn@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959968473529",
+      "userId": 15,
+      "userName": "ဟိန်းမင်းစိုး",
+      "userType": "place_poster"
+    },
+    "viewerCount": 86,
+    "width": 15
+  },
+  {
+    "address": "",
+    "apartmentFloor": 1,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 30,
+        "roomLength": 20,
+        "roomType": "Double Room",
+        "roomWidth": 10
+      },
+      {
+        "hasAircon": false,
+        "id": 31,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": false,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 0
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720645-1499572856.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720645-1499572897.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720645-1499572950.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12720645-1499572770.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1253983,
+    "length": 20,
+    "longitude": 16.8062456,
+    "maxRate": 10,
+    "minRate": 6,
+    "placeDescription": "အကျယ်အဝန်း 20x63 ပေရှိသော ကျယ်ဝန်းသော ဧရိယာရှိသည့် ပြင်ဆင်ပြီး ရုံးခန်းဖွင့်ရန်ကောင်း ဈေးနှုန်းတန်သည့် အဆင့်မြင့်တိုက်ခန်းအငှားဖြစ်သည်။ Aircon 3 လုံး ပါ ရှိ သည်။ ",
+    "placeId": 36,
+    "placeTitle": "ဗဟိုလမ်းမပေါ်တွင် ဓာတ်လှေကားပါဝင်သော အဆင့်မြင့်တိုက်ခန်းကျယ်ငှားရန်ရှိသည်။ရွိသည္။​",
+    "placeType": "တိုက်ခန်း",
+    "price": 5.5,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "aung@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969998",
+        "userId": 21,
+        "userName": "Aung Aung",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 2,
+    "township": "စမ္းေခ်ာင္း",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "ဗဟန်း",
+      "email": "minnthurain@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959974839207",
+      "userId": 16,
+      "userName": "မင်းသူရိန်",
+      "userType": "place_poster"
+    },
+    "viewerCount": 186,
+    "width": 40
+  },
+  {
+    "address": "အင်းစိန်",
+    "apartmentFloor": 5,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": false,
+        "id": 32,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      },
+      {
+        "hasAircon": false,
+        "id": 33,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": false,
+      "hasRefrigerator": false,
+      "hasWashingMachine": false,
+      "hasWaterHeater": false,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 0
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12406043-1493271287.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12406043-1493271486.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12406043-1493271057.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12406043-1493271155.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12406043-1493271270.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12406043-1493271287.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.0694843,
+    "length": 20,
+    "longitude": 16.9022753,
+    "maxRate": 10,
+    "minRate": 8,
+    "placeDescription": "အင္​းစိန္​ မုဒိတာ၂ကြန္​ဒို ၊ (15'x40') ၊ ႐ိုး႐ိုးခန္​း၁ခန္​း ၊ မာစတာခန္​း၁ခန္​း ၊ ဧည္​့ခန္​း ၊ မီးဖို​ေခ်ာင္​ ၊​ ​ေရခ်ိဳးခန္​း ၊ အိမ္​သာ၂စံုပါ ၊ ပထမထပ္​မွ အ႒မထက္​ထိ ဓာတ္​​ေလွကားပါ ၊ ​ေရမီး ၂၄ နာရီ ၊ သန္​႔႐ွင္​း​ေရးဝန္​​ေဆာင္​မႈပါ တိုက္​ခန္​းမ်ားအား ငွါးရန္​႐ွိပါသည္​ ။\nသံပန္​းပါၿပီး > ၁သိန္း\nမီးဖိုခံု ၊ သံပန္​း > ၁သိန္း၂ေသာင္​း\nသံပန္​း ၊ မီးဖို​ခံု ၊ AC > ၁သိန္း၅ေသာင္း\n၆လ ၊ ၁ႏွစ္​ စာခ်ဳပ္​ခ်ဳပ္​ရမည္​ ။\n၆လခ်ဳပ္​အတြက္​ အက်ိဳး​ေဆာင္​ခ လဝက္​စာႏႈန္​းထားျဖင္​့ ဝန္​​ေဆာင္​မႈ​ေပး​ေနပါသည္​ ။ ",
+    "placeId": 37,
+    "placeTitle": "အင်​းစိန်​ မုဒိတာ၂ကွန်​ဒိုတွင်​ တိုက်​ခန်​းများအား ​ဈေးနှုန်​းသက်​သာစွာဖြင်​့ ငှါးရန်​ရှိပါသည်​ ။​",
+    "placeType": "တိုက်ခန်း",
+    "price": 1.0,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "အင်းစိန်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "ဗဟန်း",
+      "email": "ayeminnwai@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+95979382620579",
+      "userId": 17,
+      "userName": "အေးမင်းဝေ",
+      "userType": "place_poster"
+    },
+    "viewerCount": 186,
+    "width": 27
+  },
+  {
+    "address": "လမ်းမတော်",
+    "apartmentFloor": 1,
+    "availableDate": "1234567899",
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": false,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": false,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 0
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/13053456-1505204857.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "aung@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969998",
+        "userId": 21,
+        "userName": "Aung Aung",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1322406,
+    "length": 26,
+    "longitude": 16.779512,
+    "maxRate": 10,
+    "minRate": 4,
+    "placeDescription": "လမ်းမတော်မြို့နယ်တွင်\n(12.5 x 50)\nGF\nရိုးရိုးအိပ်ခန်း(၁)ခန်း၊ အဲယားကွန်း၊ RCခင်း၊ တစ်စိတ်တစ်ပိုင်းပြင်ဆင်ထားသော မြေညီတိုက်ခနး်ငှားရန်ရှိပါသည် ",
+    "placeId": 38,
+    "placeTitle": "ပေ (12.5 x 50) ရှိမြေညီတိုက်ခန်းအမြန်ငှားရန်ရှိသည် ဗန္ဓုလလမ်းမပေါ်",
+    "placeType": "တိုက်ခန်း",
+    "price": 1.0,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyophyo@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796477698",
+        "userId": 210,
+        "userName": "Phyo Phyo",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 2,
+    "township": "လမ်းမတော်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "လမ်းမတော်",
+      "email": "wint@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959255937770",
+      "userId": 18,
+      "userName": "မဝင့်",
+      "userType": "place_poster"
+    },
+    "viewerCount": 66,
+    "width": 60
+  },
+  {
+    "address": "မရမ်းကုန်း",
+    "apartmentFloor": 1,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 34,
+        "roomLength": 10,
+        "roomType": "Double Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": true,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12584876-1497692305.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.1020623,
+    "length": 40,
+    "longitude": 16.8658965,
+    "maxRate": 10,
+    "minRate": 6,
+    "placeDescription": "Ma Yan Gone Township, 9 Mile, Ma Soe Yein Street, 1RC (Bangalo), Rental price=8 L, ",
+    "placeId": 39,
+    "placeTitle": "One Storey RC Building House for Rent in 9 Mile",
+    "placeType": "လုံးချင်းအိမ်",
+    "price": 8.5,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "aung@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969998",
+        "userId": 21,
+        "userName": "Aung Aung",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "မရမ်းကုန်း",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "မရမ်းကုန်း",
+      "email": "eithuzar@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959963820859",
+      "userId": 19,
+      "userName": "အိသူဇာ",
+      "userType": "place_poster"
+    },
+    "viewerCount": 33,
+    "width": 60
+  },
+  {
+    "address": "သံလျင်",
+    "apartmentFloor": 3,
+    "availableDate": "1234567899",
+    "bedrooms": [
+      {
+        "hasAircon": true,
+        "id": 35,
+        "roomLength": 20,
+        "roomType": "Master Room",
+        "roomWidth": 12
+      },
+      {
+        "hasAircon": true,
+        "id": 36,
+        "roomLength": 15,
+        "roomType": "Double Room",
+        "roomWidth": 10
+      },
+      {
+        "hasAircon": true,
+        "id": 37,
+        "roomLength": 10,
+        "roomType": "Single Room",
+        "roomWidth": 10
+      }
+    ],
+    "contractDuration": "6 months",
+    "contractNegotiable": true,
+    "createdDate": "1507629740",
+    "features": {
+      "hasCarParking": true,
+      "hasLift": false,
+      "hasRefrigerator": true,
+      "hasWashingMachine": true,
+      "hasWaterHeater": true,
+      "isFullyFurnished": true,
+      "numOfLivingRoomAC": 1
+    },
+    "imageUrl": [
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12731912-1499833215.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12731912-1499833223.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12731912-1499832920.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12731912-1499832964.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12731912-1499833188.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12731912-1499833203.jpg",
+      "https://www.imyanmarhouse.com/pictures/rent/mp1ay6t/12731912-1499833208.jpg"
+    ],
+    "interestedPersons": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "aung@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969998",
+        "userId": 21,
+        "userName": "Aung Aung",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "tuntun@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976669398",
+        "userId": 25,
+        "userName": "Tun Tun",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyuphyu@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796669398",
+        "userId": 26,
+        "userName": "Phyu Phyu",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "eiei@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796469398",
+        "userId": 27,
+        "userName": "Ei Ei",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hninhnin@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479398",
+        "userId": 28,
+        "userName": "Hnin Hnin",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "thaethae@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796479698",
+        "userId": 29,
+        "userName": "Thae Thae",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "phyophyo@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959796477698",
+        "userId": 210,
+        "userName": "Phyo Phyo",
+        "userType": "place_seeker"
+      }
+    ],
+    "isAvailability": true,
+    "latitude": 96.2223807,
+    "length": 40,
+    "longitude": 16.7587757,
+    "maxRate": 10,
+    "minRate": 8,
+    "placeDescription": "Location : Star City Condo , TahnLyinn Tsp , Yangon .\nArea : 1185 Sqft\nType : Condo \nRoomtype : 1 Master Bedroom , - Single Bedroom , Fully- Furnished , Ready to stay.\n\nတည္ေနရာ - Star City Condo , သံလ်င္ျမိဳ႕နယ္ ၊ရန္ကုန္ျမိဳ႕ ၊ \nအက်ယ္အဝန္း - ၁၁၈၅ စတုရန္းေပ\nအမ်ိဳးအစား - ကြန္ဒို\nအခန္းဖြဲ႔စည္းပံု - အဆင့္ျမင့္အိပ္ခန္း (၁) ခန္း ၊ တစ္ေယာက္အိပ္ခန္း (၁)ခန္း ၊ ပရိေဘာဂအျပည့္အစံု ပါဝင္ျပင္ဆင္ေပးထားပါသည္ ၊ အသင့္ေနထိုင္ႏိုင္သည့္ ကြန္ဒိုျဖစ္ပါသည္ ၊ ",
+    "placeId": 40,
+    "placeTitle": "Fully Furnished of Star City Condo for Rent . (ပရိဘောဂအပြည့်အစုံဖြင့် အဆင့်မြင့်ပြင်ဆင်ထားသော ကွန်ဒိုခန်း ငှားမည်)",
+    "placeType": "ကွန်ဒို",
+    "price": 1.0,
+    "priceNegotiable": true,
+    "requestForRoomViewers": [
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "mama@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969997",
+        "userId": 22,
+        "userName": "Ma Ma",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "hlahla@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+95997692354",
+        "userId": 23,
+        "userName": "Hla Hla",
+        "userType": "place_seeker"
+      },
+      {
+        "address": "အမွတ္(၁၁) ၊ ေက်ာင္းကုန္းလမ္း ၊ စမ္းေခ်ာင္းၿမိဳ႕နယ္ ၊ ရန္ကုန္။",
+        "email": "myamya@gmail.com",
+        "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+        "phone": "+959976969398",
+        "userId": 24,
+        "userName": "Mya Mya",
+        "userType": "place_seeker"
+      }
+    ],
+    "storyCount": 1,
+    "township": "သံလျင်",
+    "updatedDate": "1507687382",
+    "users": {
+      "address": "သံလျင်",
+      "email": "ngweyi@gmail.com",
+      "imageUrl": "http://aspirehire-co-uk.mysmarterwebsite.co.uk/aspirehire-co-uk/_img/profile.svg",
+      "phone": "+959963789201",
+      "userId": 120,
+      "userName": "ငွေရည်ရွှန်း",
+      "userType": "place_poster"
+    },
+    "viewerCount": 82,
+    "width": 60
+  }
+]

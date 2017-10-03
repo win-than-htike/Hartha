@@ -1,0 +1,46 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.1"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile rootProject.ext.testLibraries.junit
+
+    compile rootProject.ext.libraries.appCompat
+    compile rootProject.ext.libraries.designSupport
+    compile rootProject.ext.libraries.constraintLayout
+
+    compile rootProject.ext.libraries.recyclerview
+    compile rootProject.ext.libraries.cardview
+
+    compile rootProject.ext.libraries.eventBus
+
+    compile rootProject.ext.libraries.butterknife
+    compile rootProject.ext.aptLibraries.butterknifeCompiler
+
+    compile rootProject.ext.libraries.glide
+
+    compile rootProject.ext.libraries.dagger
+    provided rootProject.ext.aptLibraries.daggerCompiler
+
+    compile rootProject.ext.libraries.rxandroid
+
+    compile 'com.google.code.gson:gson:2.8.2'
+}
